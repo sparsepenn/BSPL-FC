@@ -1,2 +1,2 @@
 # BSPL-FC
-This repository is codes and data sets for balanced self-Paced learning with feature corruption.
+This repository includes codes and data sets for balanced self-paced learning with feature corruption.
